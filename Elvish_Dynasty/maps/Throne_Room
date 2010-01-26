@@ -1,0 +1,12 @@
+border_size=1
+usage=map
+
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         
+Rp          , Xos         , Rp          , Rp          , 1 Kv        , Rp          , Rp          , Xos         , Rp          
+Rp          , Rp          , Xos         , Rp          , Rp          , Rp          , Xos         , Rp          , Rp          
+Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          
+Rp          , Rp          , Xos         , Rp          , 2 Kv        , Rp          , Xos         , Rp          , Rp          
+Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          
+Rp          , Rp          , Xos         , Rp          , Rp          , Rp          , Xos         , Rp          , Rp          
+Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          

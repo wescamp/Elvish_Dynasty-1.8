@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Ggf         , Ggf         , Hh^Fds      , Hh^Fds      , Hh^Fds      , Gg          , Gg          , Gg          , Gs^Fms      , Gs^Fds      , Gs^Fds      , Gs^Fds      
+Gg          , Ggf         , Ggf         , Hh^Fds      , Ggf         , Gs          , Gs^Fds      , Gs^Fms      , Gg          , Gs^Fms      , Gs^Fds      , Gs^Fds      
+Gg          , Gg          , Gs^Fp       , Ww          , Ww          , Gg          , Gs^Fds      , Gs^Fds      , Gg          , 2 Kv        , Gg          , Gg          
+Gg          , Gs^Fms      , Ww          , Ww          , Ww          , Ww          , Ww          , Gg          , Gs^Fds      , Gs^Fp       , Gs^Fds      , Gg          
+Ggf         , Ggf         , Gg          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Gs^Fds      , Gg          
+Gg          , Ggf         , Ww          , Ww          , Ww          , Ww          , 1 Kv        , Ww          , Ww          , Ww          , Hh^Fds      , Hh^Fds      
+Gg          , Ggf         , Gg          , Ww          , Ww          , Ggf         , Ggf         , Ww          , Ww          , Ww          , Gs^Fp       , Gg          
+Gg          , Gs          , Gs^Fms      , Ww          , Gg          , Ww^Bw/      , Ww          , Ww          , Ww          , Hh^Fds      , Ggf         , Ggf         
+Gs^Fds      , Gs^Fms      , Gs^Fds      , Gs          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ggf         , Ggf         
+Gs^Fds      , Gs^Fds      , Gg          , Gs^Fds      , Ww          , Ww          , Gg          , Ww          , Gs          , Ww          , Gs^Fms      , Ggf         
+Gs^Fms      , Gs^Fms      , Gs^Fds      , Gs^Fms      , Ww          , Ww          , Ww          , Gs^Fp       , Gs^Fms      , Gg          , Gs^Fp       , Gg          
+Gs^Fds      , Gs^Fds      , Gs^Fds      , Ww          , Ww          , Ww          , Ww          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       

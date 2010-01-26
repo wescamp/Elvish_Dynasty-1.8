@@ -1,0 +1,20 @@
+border_size=1
+usage=map
+
+Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          
+Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          
+Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Ww          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          
+Mm          , Mm          , Hh^Fdw      , Hh          , Mm          , Mm          , Mm          , Rd          , Ww          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          
+Hh          , Gs^Fdw      , Rd          , Rd          , Rd          , Mm          , Rd          , Gs^Fdw      , Ww          , Rd          , Rd          , Mm          , Rd          , Mm          , Gs^Fdw      , Mm          , Hh          
+Gs          , Gs          , Rd          , Rd          , Gs^Fdw      , Hh          , Gs^Fdw      , Rd          , Ww          , Rd          , Hh          , Rd          , Rd          , Hh          , Hh          , Rd          , Rd          
+Gs          , Rd          , Rd          , Hh          , Gs          , Ds          , Ww          , Ww          , Rd          , Rd          , Rd          , Rd          , Gs          , 3 Kv        , Gs          , Rd          , Rd          
+Rd          , Gs          , Gs^Fdw      , Rd          , Gs^Fdw      , Ds          , Ww          , Rd          , Gs          , Gs          , Gs          , Rd          , Gs          , Gs          , Gs          , Gs^Fdw      , Gs          
+Rd          , Rd          , Ww          , Ww          , Ww          , Ww          , Ww          , Gs^Fdf      , Rd          , Gs          , Gs          , Gs^Fdw      , Gs          , 2 Kv        , Gs          , Gs^Fdw      , Gs          
+Gs          , Rd          , Ww          , Ww          , Ww          , Gs^Fdf      , Ww          , Ds          , Ds          , 1 Kv        , Gs          , Gs          , Gs          , Gs          , Rd          , Rd          , Gs          
+Gs          , Gs          , Hh^Fdf      , Ww          , Gs          , Hh^Fdw      , Rd          , Ww          , Ww          , Gs^Fdw      , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Gs          , Rd          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs^Fdf      , Ww          , Gs          , Gs^Fdf      , Gs          , Gg          , Gg          , Gs          , Gs          , Gs          
+Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Gg          , Gs^Fdf      , Ww          , Gs          , Gs^Fdf      , Gg          , Gg          , Gg          , Gg          , Gs          , Gs          
+Gs^Fds      , Gg          , Gg          , Gg          , Gs^Fds      , Gg          , Gs^Fds      , Gs^Fdf      , Gs^Fdf      , Ww          , Gs^Fdf      , Gs^Fdf      , Gs^Fdf      , Gs^Fdf      , Gs^Fds      , Gs^Fds      , Gg          
+Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gg          , Gs^Fdf      , Gs^Fdf      , Ww          , Gs^Fdf      , Gs^Fdf      , Gs^Fdf      , Gg          , Gs^Fds      , Gs^Fds      , Gg          
+Gs^Fds      , Gg          , Gs^Fds      , Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gg          , Gs^Fdf      , Ww          , Gs^Fdf      , Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gs^Fds      
+Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gg          , Gs^Fds      , Gs^Fds      , Gs^Fdf      , Ww          , Ww          , Gs^Fdf      , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gs^Fds      

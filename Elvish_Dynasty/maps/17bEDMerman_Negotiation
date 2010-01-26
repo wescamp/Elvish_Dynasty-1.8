@@ -1,0 +1,20 @@
+border_size=1
+usage=map
+
+Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Wwr         , Ww          
+Ww          , Ww          , Wwr         , Wwr         , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ai          , Ww          , Ww          
+Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ww          , Ww          
+Ww          , Ww          , Ww          , Ww          , Ww          , Ai          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Ai          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Wwr         , Ww          , Ww          , Ww          , Ww          
+Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Ha^Fma      , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Wwr         , Wwr         , Ww          , Ww          
+Ww          , Ww          , Wwr         , Wwr         , Ww          , Ww          , Ww          , Ww          , Ai          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ai          , Aa          , Aa          , Ha          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Aa          , Ai          , Aa^Fma      , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ai          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          
+Ww          , Ww          , Ai          , Ww          , Ha^Fma      , Ha          , Aa          , Ai          , Aa          , Ww          , Aa          , Ww          , Ai          , Ww          , Aa^Fma      , Ww          , Ww          
+Aa          , Ai          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Ai          , Aa          , Ai          , Ai          
+Aa^Fma      , Aa^Fma      , Aa          , 1 Ke        , Aa          , 2 Ke        , Aa          , Aa          , Aa          , Aa          , Ha^Fma      , Ha          , Aa          , Ha^Fma      , Aa^Fma      , Aa          , Aa          
+Aa          , Aa^Fma      , Aa          , Aa          , Ha^Fma      , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa^Fma      , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
